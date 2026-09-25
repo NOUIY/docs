@@ -195,7 +195,7 @@
     "ajv-errors": "^3.0.0",
     "ajv-formats": "^3.0.1",
     "azure-kusto-data": "^7.0.4",
-    "chalk": "^5.0.1",
+    "chalk": "^6.0.0",
     "cheerio": "^1.2.0",
     "clsx": "^2.1.1",
     "cookie-parser": "^1.4.7",
